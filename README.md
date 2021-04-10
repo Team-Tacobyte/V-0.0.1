@@ -4,6 +4,6 @@ Version 0.0.1 of TacoByte
 
 -Note, this version of TacoByte is the early version of the website, most stuff will not work and there will be tons of bugs
 
-Made by BossFriend
+Made by Certified_Rice
 
 (This is just the public version, not everything in the website will be here!)
